@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_camera"
+            android:icon="@drawable/icc_home"
+            android:title="Home" />
+
+        <item
+            android:id="@+id/nav_mysite"
+            android:icon="@drawable/icc_mysite"
+            android:title="My Site" />
+
+        <item
+            android:id="@+id/nav_profile"
+            android:icon="@drawable/icc_profile"
+            android:title="Profile" />
+        <item
+            android:id="@+id/nav_favorite"
+            android:icon="@drawable/ic_favorite"
+            app:actionViewClass="android.widget.TextView"
+            android:title="Favorite" />
+        <item
+            android:id="@+id/nav_add_shopping_cart"
+            android:icon="@drawable/icc_add_shopping_cart"
+            app:actionViewClass="android.widget.TextView"
+            android:title="Your Cart" />
+
+        <item
+            android:id="@+id/nav_Invite_friends"
+            android:icon="@drawable/icc_invatite"
+            android:title="Invite a friends" />
+
+        <item
+            android:id="@+id/nav_Review_Rating"
+            android:icon="@drawable/icc_rating"
+            android:title="@string/nav_Review_Rating" />
+
+        <item
+            android:id="@+id/nav_Advance_Search"
+            android:icon="@drawable/icc_search"
+            android:title="Advance Search" />
+
+
+        <item
+            android:id="@+id/nav_Notifications"
+            android:icon="@drawable/icc_notification"
+            app:actionViewClass="android.widget.TextView"
+            android:title="Notifications" />
+
+        <item
+            android:id="@+id/nav_Settings"
+            android:icon="@drawable/icc_settings"
+            android:title="Settings" />
+
+        <item
+            android:id="@+id/nav_logout"
+            android:icon="@drawable/icc_logout"
+            android:title="Logout" />
+
+    </group>
+</menu>

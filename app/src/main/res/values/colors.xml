@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+
+    <color name="colorPrimary">#ff0084</color>
+    <color name="colorPrimaryDark">#a6095c</color>
+    <color name="colorAccent">#ffffff</color>
+
+    <color name="background_window">#FFE5E5E5</color>
+    <color name="background_tab_pressed">#6633B5E5</color>
+
+    <color name="indigo">#778</color>
+    <color name="colorNotification">#0c9c89</color>
+
+
+    <color name="ic_favorite_color">#33b90e</color>
+    <color name="ic_naviconcolor">#dbdcdc</color>
+    <color name="startColor_gradient">#ff0084</color>
+    <color name="endColor_gradient">#5c0734</color>
+
+
+
+
+
+</resources>

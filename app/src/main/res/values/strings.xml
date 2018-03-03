@@ -1,0 +1,42 @@
+<resources>
+
+
+    <string name="app_name">My Shoping</string>
+
+    <string name="nav_Review_Rating">Review &amp; Rating</string>
+
+
+
+    <string name="app_name1">13MP primary camera (f2.0) with PDAF and 5MP wide-angle front camera (f2.2)
+3 GB RAM and 16 GB internal memory expandable upto 128 GB in a dedicated slot
+Metal body with finger-print reader
+12.7 centimeters (5-inch) Full HD display with 1920 x 1080 resolution and 441 ppi</string>
+    <string name="app_name2">1. Up to ₹1,000 back as Amazon Pay Balance for Prime members*
+
+2.Vodafone Special Offer Get 45 GB data free for 5 months. Purchase an Amazon Exclusive smartphone with a 1 GB 4G data pack from Vodafone
+
+3.Sign in to Kindle App and get 80% promotional credit on Kindle ebooks up to ₹300*</string>
+
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_menu">Home</string>
+
+    <string name="title_activity_scrollable_tabs">Scrollable Tabs</string>
+    <string name="title_activity_simple_tabs">Simple Tabs</string>
+    <string name="btn_simple_tabs">Simple Tabs</string>
+    <string name="btn_scrollable_tabs">Scrollable Tabs</string>
+    <string name="btn_icon_text_tabs">Icon &amp; Text Tabs</string>
+    <string name="btn_icon_tabs">Only Icon Tabs</string>
+    <string name="btn_pinned_top_tabs">Pinned To Top Tabs</string>
+    <string name="title_activity_icon_text_tabs">Icon and Text Tabs</string>
+    <string name="title_activity_icon_tabs">Icon Tabs</string>
+    <string name="btn_custom_icon_tabs">Custom View Icon &amp; Text</string>
+    <string name="title_activity_custom_view_icon_text_tabs">Custom View Icon &amp; Text</string>
+    <string name="title_activity_pinned_top_tabs">Pin Top Tabs</string>
+    <string name="title_activity_main2">Main2Activity</string>
+
+
+</resources>
